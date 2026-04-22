@@ -7,6 +7,7 @@ I am a passionate Full Stack Developer and an aspiring Data Engineer who enjoys 
 ### 🌐 Connect with me
 
 🎥 YouTube: https://www.youtube.com/@Vijaykumar.mannuru2005
+
 💼 LinkedIn: https://linkedin.com/in/vijay-mannuru-77b355405
 
 ---
