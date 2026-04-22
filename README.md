@@ -15,12 +15,19 @@ I am a passionate Full Stack Developer and an aspiring Data Engineer who enjoys 
 ### 🛠️ Languages and Tools
 
 ⚛️ React
+
 🟢 Node.js
+
 ☕ Spring Boot
+
 🍃 MongoDB
+
 🗄️ SQL
+
 🤖 LangChain / RAG / LangGraph
+
 🐙 Git & GitHub
+
 💻 VS Code
 
 ---
