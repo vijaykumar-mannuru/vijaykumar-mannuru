@@ -1,44 +1,50 @@
-## Hi there 👋, I'm Vijay Kumar Mannuru
+## Hi 👋, I'm Vijay Kumar Mannuru
 
-🚀 I am a passionate Full Stack Developer who enjoys building real-world applications and solving practical problems.
+I am a passionate Full Stack Developer who enjoys building real-world applications that solve practical problems. I work with modern technologies like React, Node.js, and Spring Boot to develop scalable web applications.
 
-### 💻 About Me
+I also explore AI-driven solutions using RAG, LangChain, and LangGraph to build intelligent systems like document-based question answering applications.
 
-* 🔭 I’m currently working on Full Stack Projects using React & Node.js
-* 🌱 I’m currently learning RAG, LangChain, and LangGraph
-* 👯 I’m looking to collaborate on Web Development & AI-based projects
-* 💬 Ask me about React, Node.js, Spring Boot, and APIs
-* 📫 How to reach me: [vijaykumarmannuru33@email.com](mailto:vijaykumarmannuru33@email.com)
+I continuously improve my skills by working on projects that combine frontend, backend, and AI capabilities.
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 About Me
 
-* **Frontend:** React, HTML, CSS, JavaScript
-* **Backend:** Node.js, Express.js, Spring Boot
-* **Database:** MongoDB, MySQL
-* **AI Tools:** RAG, LangChain, LangGraph
-* **Tools:** Git, GitHub, VS Code
-
----
-
-### 🚀 Projects
-
-* 🔹 **Full Stack Web Applications** (React + Node.js)
-* 🔹 **Spring Boot + React Applications**
-* 🔹 **AI PDF Q&A System (RAG + LangChain + LangGraph)**
+* 🔭 I’m currently working on **Full Stack Projects (React + Node.js + Spring Boot)**
+* 🌱 I’m currently learning **RAG, LangChain, LangGraph**
+* 👯 I’m looking to collaborate on **Full Stack & AI Projects**
+* 🤔 I’m looking for help with **Advanced AI integrations**
+* 💬 Ask me about **React, Node.js, Spring Boot, MongoDB**
+* 📫 How to reach me: **LinkedIn**
+* ⚡ Fun fact: I love building real-world problem solving projects
 
 ---
 
-### 📈 Goals
+### 🌐 Connect with me
 
-* Become a strong Full Stack + AI Developer
-* Build real-world scalable applications
-* Crack top product-based companies
+* 🎥 YouTube: https://www.youtube.com/@Vijaykumar.mannuru2005
+* 💼 LinkedIn: https://linkedin.com/in/vijay-mannuru-77b355405
 
 ---
 
-### ⚡ Fun Fact
+### 🛠️ Languages and Tools
 
-I love learning new technologies and building projects that solve real-world problems 🚀
+* 💻 Frontend: React, HTML, CSS, JavaScript
+* ⚙️ Backend: Node.js, Express.js, Spring Boot
+* 🗄️ Database: MongoDB, SQL
+* 🤖 AI Tools: LangChain, LangGraph, RAG
+* 🛠️ Tools: Git, GitHub, VS Code
+
+---
+
+### 📌 Projects
+
+* 🔹 Full Stack Web Applications (React + Node.js)
+* 🔹 Spring Boot + React Applications
+* 🔹 AI-based PDF Question Answering System (RAG + LangChain)
+
+---
+
+⭐️ From [vijaykumar-mannuru](https://github.com/vijaykumar-mannuru)
+
 
